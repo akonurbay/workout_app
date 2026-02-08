@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../providers/workout_provider.dart';
 import '../widgets/accent_button.dart';
-import '../models/workout.dart';
 import 'workout_form_screen.dart';
 
 class WorkoutDetailScreen extends StatelessWidget {
